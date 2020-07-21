@@ -1,0 +1,43 @@
+body
+{
+border-style: solid;
+border-color: cyan;
+border-width: 70px;
+  padding:1%  5%  5%  5%;
+  background-color:rgba(117, 190, 218, 0.5);
+}
+p
+{
+font-style: italic;
+font-size: 20px;
+padding:2%;
+
+}
+h1
+{
+font-family: serif;
+}
+h2
+{
+  font-family:italic;
+}
+h3
+{
+  font-size:22px;
+  font-style: italic;
+}
+form
+{
+  font-size: 15px;
+  border-color:black;
+  border-radius: 6px;
+}
+#two
+{
+  font-color:black;
+  font-size:25px;
+}
+#submit
+{
+  border-radius: 4%;
+}
